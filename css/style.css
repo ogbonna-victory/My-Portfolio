@@ -576,6 +576,9 @@ textarea::placeholder{
   .fixed-header-on .site-slogan {
     display: none;
   }
+  .banner-caption {
+    top: 35%;
+  }
 }
 
 /* Blocks/Widgets
