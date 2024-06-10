@@ -54,6 +54,10 @@ Feel free to reach out to me for any inquiries or collaboration opportunities.
 Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
 Google Fonts - http://www.google.com/fonts
 
+## Logo
+-------------------------------------------
+Logo generated from favicon.io - https://favicon.io/favicon-generator/
+
 ## Resources
 ------------------------------------------------------
 Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
