@@ -3,9 +3,39 @@
 
 Welcome to my portfolio page! This is where I showcase my work and skills as a beginner frontend developer. Below, you'll find a brief introduction, my projects, and how to get in touch with me.
 
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Contact](#contact)
+- [Acknowledgement](#acknowledgements)
+-[Installation](#installation)
+-[Resources](#resources)
+- [License](#license)
+
 ## Introduction
 
 Hello! I'm Victory Ogbonna Chimaram, a passionate frontend developer eager to build responsive and dynamic web applications. This portfolio demonstrates my journey and the projects I've worked on so far.
+
+## About Me
+Hi, I'm Victory, a passionate and dedicated Frontend Developer based in PortHarcourt, Nigeria.
+
+### Accordion Information
+#### Certifications and Courses
+- National Diploma in Computer Science from [Abia State Polytechnic]
+- Certification in Azure Devop from Udemy
+
+#### Volunteer Experience
+- Served as a class representative at Abia State Polytechnic, acting as a liaison between students and faculty. 
+#### Technical Skills
+- HTML, CSS, JavaScript, and Bootstrap
+- Responsive design
+- Version control with Git and GitHub
+
+#### Personal Interests
+- Attending tech meetup with friends and engaging in tech communities.
+- Enjoy experimenting with new web technologies and frameworks in personal projects.
+- Also enjoy baking, which is a form of relaxation for me.
+
 
 ## Projects
 
@@ -39,8 +69,11 @@ Hello! I'm Victory Ogbonna Chimaram, a passionate frontend developer eager to bu
 Feel free to reach out to me for any inquiries or collaboration opportunities.
 
 - **Email**: victorychimaram@gmail.com
-- **LinkedIn**: [Victory Ogbonna Chimaram](https://www.linkedin.com/in/victory-ogbonna1998)
-- **GitHub**: [github.com/victory](https://github.com/ogbonna-victory)
+- **LinkedIn**:(https://www.linkedin.com/in/victory-ogbonna1998)
+- **GitHub**:(https://github.com/ogbonna-victory)
+- **Instagram**:(http://www.instagram.com/victory_chimaram?igsh=NHFIdWY3Nmo3c2k0)
+- **X**:(https://x.com/victorychimaram?t=WJjYpfstNju58k0HUG6rzA&s=09)
+- **Facebook**:(https://www.facebook.com/profile.php?id=100006556410257&mibextid=zbWKwL)
 
 ## Acknowledgements
 
@@ -49,15 +82,17 @@ Feel free to reach out to me for any inquiries or collaboration opportunities.
 - **Photographer**: [Noah Grossenbacher](https://unsplash.com/@ravni)
 - **Link**: [Unsplash Image](https://unsplash.com/photos/lighted-house-in-city-near-glacier-mountain-at-nighttime-_7hiYkKVmsk)
 
-## Fonts
+### Fonts
 ------------------------------------------------------
 Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
 Google Fonts - http://www.google.com/fonts
 
-## Logo
+### Logo
 -------------------------------------------
 Logo generated from favicon.io - https://favicon.io/favicon-generator/
 
+## Installation
+git clone https://github.com/ogbonna-victory/My-Portfolio.git
 ## Resources
 ------------------------------------------------------
 Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
