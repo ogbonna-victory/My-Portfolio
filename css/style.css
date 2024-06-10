@@ -125,7 +125,7 @@ blockquote {
   height: 100%;
   min-height: 100%;
   position: relative;
-  color:  rgb(204, 214, 246)C;
+  color:  rgb(204, 214, 246);
 }
 .banner-image {
   vertical-align: middle;
@@ -631,6 +631,11 @@ textarea::placeholder{
   display: inline-block;
   font-size: 36px;
 }
+@media (max-width: 991px) {
+  .social-links li {
+    font-size: 25px;
+  }
+}
 .social-links li {
   color: #333333;
   -webkit-transition: all 0.2s ease-in-out;
@@ -759,6 +764,11 @@ textarea::placeholder{
   width: 60px;
   border-radius: 50%;
 }
+@media (max-width: 991px) {
+  .logo-icon{
+    display: none !important;
+  }
+}
 .title{
   color: rgb(136, 146, 176);
   padding-top: 30px;
@@ -770,7 +780,7 @@ textarea::placeholder{
 }
 
 .homepage-header{
-  background-color: #070915 !important;
+  background-color: transparent !important;
 }
 .main-content{
   min-height: calc(100vh);
